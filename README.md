@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/prathamchavhan3377-source/Leetcode-java/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/prathamchavhan3377-source/Leetcode-java/tree/master/0152-maximum-product-subarray) |
+| [0509-fibonacci-number](https://github.com/prathamchavhan3377-source/Leetcode-java/tree/master/0509-fibonacci-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -41,4 +42,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/prathamchavhan3377-source/Leetcode-java/tree/master/0169-majority-element) |
+## Math
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/prathamchavhan3377-source/Leetcode-java/tree/master/0509-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/prathamchavhan3377-source/Leetcode-java/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/prathamchavhan3377-source/Leetcode-java/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
